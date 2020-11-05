@@ -1,2 +1,1 @@
 # lmgsi
-prueba
