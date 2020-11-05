@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    font-size: 12pt;
+    margin: 10px;
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+    letter-spacing: 10px;
+}
+h2{
+    text-indent: 10px;
+    background-color: gray;
+    color: white;
+}
+p{
+    text-indent: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 106px;
+    height: 150px;
+}
+em{
+    background-color: white;
+    font-weight: bold;
+}
+span{
+    color: red;
+}
